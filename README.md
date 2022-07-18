@@ -28,5 +28,5 @@
 * 此張圖片將 `example.xlsx` 檔案進行批量複製<br>
 ![image6](https://github.com/Johnsonnnn/EasyCopyFileTools/blob/main/Images/6.jpg)
 7. 特別的用法
-* 若有特定需求可額外增加{}左右括號進行更名，例如: `test{}{}.txt` <br>
+* 若有特定需求可額外增加{}左右括號進行更名(不限數量)，例如: `test{}{}.txt` <br>
 ![image7](https://github.com/Johnsonnnn/EasyCopyFileTools/blob/main/Images/7.jpg)
