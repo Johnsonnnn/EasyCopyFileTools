@@ -1,5 +1,5 @@
 # EasyCopyFileTools
-### 簡介: 能夠快速批量創建文件夾以及檔案，或者將一個現有的檔案進行批量複製並更名
+### 簡介: 能夠快速批量創建文件夾以及檔案，或者將一個現有的檔案進行批量複製並進行有序的更名
 ### 功能:
 1. 基本介面<br>
 ![image1](https://github.com/Johnsonnnn/EasyCopyFileTools/blob/main/Images/1.jpg)
